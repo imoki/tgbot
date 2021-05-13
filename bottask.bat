@@ -1,0 +1,1 @@
+schtasks /create /tn bottask /tr x:\xx\xx\xx\run.bat /sc daily /mo 1 /st 07:00 /ed 20xx/xx/xx
